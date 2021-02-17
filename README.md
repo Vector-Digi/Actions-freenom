@@ -9,7 +9,7 @@
 Documentation: [English version](https://github.com/luolongfei/freenom/blob/master/README_EN.md) | 中文版
 </div>
 
-此处为变动  
+此处为变动,用于激活fork仓库的action  
 
 [📃  前言](#--前言)
 
